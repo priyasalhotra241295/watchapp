@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84421b90-c482-4ca5-966b-6f1ac24b28ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/amazing-watchlist.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/AddArrayEmpty.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/AddArrayPush.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/AddProject1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/AddProject2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/AddProjectWithTargets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ArrayDeleteInner.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ArrayDeleteInnerAdd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ArrayDeleteLast.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ArrayDeleteLastAdd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ArrayDeleteZero.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ArrayIndexInner.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ArrayIndexLast.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ArrayIndexZero.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ArrayPop.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ArrayPush.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ArrayReplace1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ArrayReplace2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ArrayShift.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ArraySort.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ArraySplice1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ArraySplice2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ArrayUnshift.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ArrayValues.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/Empty.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/Extensions1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/Extensions2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ObjectRemove.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ObjectRemoveMultiple.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ObjectReplace1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ObjectReplace2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ObjectReplace3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ProjectAddTarget.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ProjectDeleteTarget.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ProjectEmpty.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ProjectFull.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ProjectModifyProperties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/ProjectSetProperties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular-devkit/core/src/workspace/json/test/cases/Retain.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/classes/comparator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/classes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/classes/range.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/classes/semver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/clean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/cmp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/coerce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/compare-build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/compare-loose.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/compare.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/diff.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/eq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/gt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/gte.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/inc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/lte.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/major.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/minor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/neq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/patch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/prerelease.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/rcompare.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/rsort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/satisfies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/functions/valid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/internal/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/internal/debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/internal/identifiers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/internal/re.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/ranges/gtr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/ranges/intersects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/ranges/ltr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/ranges/max-satisfying.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/ranges/min-satisfying.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/ranges/min-version.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/ranges/outside.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/ranges/to-comparators.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/helper-compilation-targets/node_modules/semver/ranges/valid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asn1.js/node_modules/bn.js/util/genCombMulTo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asn1.js/node_modules/bn.js/util/genCombMulTo10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/colorette/colorette.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/create-ecdh/node_modules/bn.js/util/genCombMulTo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/create-ecdh/node_modules/bn.js/util/genCombMulTo10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/diffie-hellman/node_modules/bn.js/util/genCombMulTo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/diffie-hellman/node_modules/bn.js/util/genCombMulTo10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/elliptic/node_modules/bn.js/util/genCombMulTo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/elliptic/node_modules/bn.js/util/genCombMulTo10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-abstract/test/helpers/values.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/has-symbols/.github/workflows/rebase.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/has-symbols/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/miller-rabin/node_modules/bn.js/util/genCombMulTo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/miller-rabin/node_modules/bn.js/util/genCombMulTo10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object.values/.github/workflows/node-4+.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object.values/.github/workflows/node-iojs.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object.values/.github/workflows/node-pretest.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object.values/.github/workflows/node-zero.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object.values/.github/workflows/rebase.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object.values/.github/workflows/require-allow-edits.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/public-encrypt/node_modules/bn.js/util/genCombMulTo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/public-encrypt/node_modules/bn.js/util/genCombMulTo10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/assert.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/async_hooks.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/base.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/buffer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/child_process.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/cluster.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/console.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/constants.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/crypto.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/dgram.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/dns.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/domain.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/events.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/fs.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/fs/promises.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/globals.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/globals.global.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/http.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/http2.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/https.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/inspector.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/module.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/net.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/os.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/path.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/perf_hooks.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/process.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/punycode.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/querystring.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/readline.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/repl.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/stream.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/string_decoder.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/timers.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/tls.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/trace_events.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/ts3.4/assert.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/ts3.4/base.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/ts3.4/globals.global.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/ts3.4/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/ts3.6/base.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/ts3.6/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/tty.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/url.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/util.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/v8.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/vm.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/wasi.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/worker_threads.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io/node_modules/@types/node/zlib.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string.prototype.trimend/.github/workflows/node-4+.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string.prototype.trimend/.github/workflows/node-iojs.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string.prototype.trimend/.github/workflows/node-pretest.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string.prototype.trimend/.github/workflows/node-zero.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string.prototype.trimend/.github/workflows/rebase.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string.prototype.trimend/.github/workflows/require-allow-edits.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string.prototype.trimstart/.github/workflows/node-4+.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string.prototype.trimstart/.github/workflows/node-iojs.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string.prototype.trimstart/.github/workflows/node-pretest.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string.prototype.trimstart/.github/workflows/node-zero.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string.prototype.trimstart/.github/workflows/rebase.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string.prototype.trimstart/.github/workflows/require-allow-edits.yml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1prasRaAUyP9HzaUuN8uYAmfL9d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/watchapp-master" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84421b90-c482-4ca5-966b-6f1ac24b28ef" name="Default Changelist" comment="" />
+      <created>1615943873044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615943873044</updated>
+      <workItem from="1615943876722" duration="121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
